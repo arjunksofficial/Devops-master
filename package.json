@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arjunsq/Devops.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "hhttps://github.com/arjunsq/Devops/issues"
+  },
+  "homepage": "hhttps://github.com/arjunsq/Devops#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
