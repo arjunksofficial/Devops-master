@@ -5,3 +5,9 @@ applications:
   exclude_paths: []
   target_url: https://raw.githubusercontent.com/qct/swagger-example/master/swagger-server/src/main/resources/swagger.yml
   type: api
+- api_domain: devcp1.ozonecloud.ai
+  application_name: api-server
+  authentication_mode: non-authenticated
+  exclude_paths: []
+  target_url: https://devcp1.ozonecloud.ai/
+  type: web
